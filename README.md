@@ -34,16 +34,10 @@ I'm **Lê Phi Ánh**. Here's a bit about me and my work.
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 
 ### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hnaihp&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" style="width: 100%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnaihp&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hnaihp&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+</div>
+
 
 ---
 
